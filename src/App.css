@@ -1,0 +1,11 @@
+.App {
+  width: 100%;
+}
+.search input{
+  width: 29rem;
+  height: 2rem;
+  border-radius: 5px;
+}
+
+.container{
+}
