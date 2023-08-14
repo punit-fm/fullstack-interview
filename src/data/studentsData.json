@@ -1,0 +1,94 @@
+{
+    "data": [
+    {
+        "Roll No": 1,
+        "Name": "Ramesh",
+        "Subject": "Maths",
+        "Marks": 85
+    },
+    {
+        "Roll No": 1,
+        "Name": "Ramesh",
+        "Subject": "Science",
+        "Marks": 72
+    },
+    {
+        "Roll No": 1,
+        "Name": "Ramesh",
+        "Subject": "Hindi",
+        "Marks": 80
+    },
+    {
+        "Roll No": 1,
+        "Name": "Ramesh",
+        "Subject": "English",
+        "Marks": 75
+    },
+    {
+        "Roll No": 1,
+        "Name": "Ramesh",
+        "Subject": "Computer",
+        "Marks": 78
+    },
+    {
+        "Roll No": 3,
+        "Name": "Gaurav",
+        "Subject": "Maths",
+        "Marks": 82
+    },
+    {
+        "Roll No": 3,
+        "Name": "Gaurav",
+        "Subject": "Science",
+        "Marks": 91
+    },
+    {
+        "Roll No": 3,
+        "Name": "Gaurav",
+        "Subject": "Hindi",
+        "Marks": 85
+    },
+    {
+        "Roll No": 3,
+        "Name": "Gaurav",
+        "Subject": "English",
+        "Marks": 80
+    },
+    {
+        "Roll No": 3,
+        "Name": "Gaurav",
+        "Subject": "Computer",
+        "Marks": 88
+    },
+    {
+        "Roll No": 2,
+        "Name": "Mahesh",
+        "Subject": "Maths",
+        "Marks": 75
+    },
+    {
+        "Roll No": 2,
+        "Name": "Mahesh",
+        "Subject": "Science",
+        "Marks": 80
+    },
+    {
+        "Roll No": 2,
+        "Name": "Mahesh",
+        "Subject": "Hindi",
+        "Marks": 90
+    },
+    {
+        "Roll No": 2,
+        "Name": "Mahesh",
+        "Subject": "English",
+        "Marks": 72
+    },
+    {
+        "Roll No": 2,
+        "Name": "Mahesh",
+        "Subject": "Computer",
+        "Marks": 85
+    }
+    ]
+}
