@@ -1,4 +1,4 @@
-Time - 45 mins
+Time - 30 mins
 ## Steps to follow
 
 - Clone this repository
